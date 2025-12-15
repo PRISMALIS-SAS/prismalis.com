@@ -281,6 +281,15 @@ p {
   align-items: center;
 }
 
+.keys-frame {
+  display: flex;
+  align-items: center;
+}
+
+.keys-frame-image {
+  justify-content: center;
+}
+
 .keys-list {
   list-style: none;
   padding-left: 0;
@@ -395,6 +404,15 @@ p {
   gap: 24px;
   margin-top: 40px;
   align-items: center;
+}
+
+.full-service-frame {
+  display: flex;
+  align-items: center;
+}
+
+.full-service-frame-image {
+  justify-content: center;
 }
 
 .service-list {
